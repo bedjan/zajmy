@@ -1,14 +1,4 @@
-
-
-<div class="wrapper group">
-
-<div id="dokuwiki__content">
-
-<div class="pad group">
-
-<div class="pageId"><span>spojky</span></div>
-
-<div class="page group">
+#### Spojky
 
 Verbální komunikace je pouhých 10% celé komunikace. Většina je neverbální ( Intonace, gesta, oblečení,.. ). Nezajímá násco říká člověk, který nám není sympatický.
 
