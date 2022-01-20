@@ -1,81 +1,5 @@
-<div id="dokuwiki__site">
 
-<div id="dokuwiki__top" class="dokuwiki site mode_show  ">
 
-<div id="dokuwiki__header">
-
-<div class="pad group">
-
-<div class="headings group">
-
-*   [jít k obsahu](#dokuwiki__content)
-
-# [![](/lib/exe/fetch.php?media=wiki:logo.png) <span>   Notes   </span>](/doku.php?id=start "[H]")
-
-</div>
-
-<div class="tools group">
-
-<div id="dokuwiki__usertools">
-
-### Uživatelské nástroje
-
-*   [Registrovat](/doku.php?id=zverokruh&do=register "Registrovat")
-*   [Přihlásit se](/doku.php?id=zverokruh&do=login&sectok=605b3c9a6f96b9e77c32633dde2ff375 "Přihlásit se")
-
-</div>
-
-<div id="dokuwiki__sitetools">
-
-### Nástroje pro tento web
-
-<form action="/doku.php?id=start" accept-charset="utf-8" class="search" id="dw__search" method="get">
-
-<div class="no"><input type="hidden" name="do" value="search"><input type="text" id="qsearch__in" accesskey="f" name="id" class="edit" title="[F]"><input type="submit" value="Hledat" class="button" title="Hledat"></div>
-
-</form>
-
-<div class="mobileTools">
-
-<form action="/doku.php" method="get" accept-charset="utf-8">
-
-<div class="no"><input type="hidden" name="id" value="zverokruh"><select name="do" class="edit quickselect" title="Nástroje"><option value="">Nástroje</option><optgroup label="Nástroje pro stránku"><option value="edit">Upravit stránku</option><option value="revisions">Starší verze</option><option value="backlink">Zpětné odkazy</option></optgroup><optgroup label="Nástroje pro tento web"><option value="recent">Poslední úpravy</option><option value="media">Správa médií</option><option value="index">Index</option></optgroup><optgroup label="Uživatelské nástroje"><option value="login">Přihlásit se</option><option value="register">Registrovat</option></optgroup></select><input type="submit" value=">"></div>
-
-</form>
-
-</div>
-
-*   [Poslední úpravy](/doku.php?id=zverokruh&do=recent "Poslední úpravy [R]")
-*   [Správa médií](/doku.php?id=zverokruh&do=media&ns= "Správa médií")
-*   [Index](/doku.php?id=zverokruh&do=index "Index [X]")
-
-</div>
-
-</div>
-
-<div class="breadcrumbs">
-
-<div class="trace"><span class="bchead">Historie:</span> <span class="bcsep">•</span> [statnice_eia](/doku.php?id=statnice_eia "statnice_eia") <span class="bcsep">•</span> [statnice_ekonomika](/doku.php?id=statnice_ekonomika "statnice_ekonomika") <span class="bcsep">•</span> [statnice_kp](/doku.php?id=statnice_kp "statnice_kp") <span class="bcsep">•</span> [statnice_odpady](/doku.php?id=statnice_odpady "statnice_odpady") <span class="bcsep">•</span> [statnice_pu](/doku.php?id=statnice_pu "statnice_pu") <span class="bcsep">•</span> [statnice_poznamky](/doku.php?id=statnice_poznamky "statnice_poznamky") <span class="bcsep">•</span> [statnice_zp](/doku.php?id=statnice_zp "statnice_zp") <span class="bcsep">•</span> [testové_otázky_odpovědi](/doku.php?id=testov%C3%A9_ot%C3%A1zky_odpov%C4%9Bdi "testové_otázky_odpovědi") <span class="bcsep">•</span> [zk](/doku.php?id=zk "zk") <span class="bcsep">•</span> <span class="curid">[zverokruh](/doku.php?id=zverokruh "zverokruh")</span></div>
-
-</div>
-
-* * *
-
-</div>
-
-</div>
-
-<div class="wrapper group">
-
-<div id="dokuwiki__content">
-
-<div class="pad group">
-
-<div class="pageId"><span>zverokruh</span></div>
-
-<div class="page group">
-
-### <span class="mw-headline" id="Tradi.C4.8Dn.C3.AD_astrologick.C3.BD_zv.C4.9Brokruh">Tradiční astrologický zvěrokruh</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span>[editovat](/w/index.php?title=Zv%C4%9Brokruh&veaction=edit&vesection=4 "Editace sekce: Tradiční astrologický zvěrokruh") <span class="mw-editsection-divider">|</span> [editovat zdroj](/w/index.php?title=Zv%C4%9Brokruh&action=edit&section=4 "Editace sekce: Tradiční astrologický zvěrokruh")<span class="mw-editsection-bracket">]</span></span>
 
 <table class="wikitable">
 
@@ -245,7 +169,7 @@
 
 <td>Kanyā (कन्या)</td>
 
-<td><span lang="sux-Latn" xml:lang="sux-Latn"><sup>MUL</sup>AB.SIN</span> "brázda"; "brázda, klas bohyně [Šaly](/w/index.php?title=%C5%A0ala&action=edit&redlink=1 "Šala (stránka neexistuje)")"</td>
+
 
 </tr>
 
