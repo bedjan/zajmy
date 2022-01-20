@@ -1,29 +1,25 @@
-#### Německo
+[ Info k Německu)[https://portal.mpsv.cz/eures/podminky/nemecko)
 
-[https://portal.mpsv.cz/eures/podminky/nemecko]( Info k Německu)
+[ Německo wiki 1)[http://www.germany.cz/)
 
-[http://www.germany.cz/]( Německo wiki 1)
+[ Německý sen)[http://www.nemeckysen.cz/)
 
-[http://www.nemeckysen.cz/]( Německý sen)
+[ Kalkulačka)[http://calculator-1.com/scientific/)
 
-[http://calculator-1.com/scientific/]( Kalkulačka)
-
-[http://www.penize.cz/kalkulacky/prevod-men]( Převod měny)
+[ Převod měny)[http://www.penize.cz/kalkulacky/prevod-men)
 
 #### Švýcarsko
 
-[https://portal.mpsv.cz/eures/podminky/svycarsko]( Info k Švýcarsku)
+[ Info k Švýcarsku)[https://portal.mpsv.cz/eures/podminky/svycarsko)
 
-[http://www.switzerland.cz/mkportal/modules/wiki/index.php/Kde_hledat_pr%C3%A1ci_ve_%C5%A0v%C3%BDcarsku_-_%C5%A0vaj%C4%8Diarsku]( Švýcarsko wiki 1)
+[ Švýcarsko wiki 1)[http://www.switzerland.cz/mkportal/modules/wiki/index.php/Kde_hledat_pr%C3%A1ci_ve_%C5%A0v%C3%BDcarsku_-_%C5%A0vaj%C4%8Diarsku)
 
 ##### Rakousko
 
-[https://portal.mpsv.cz/eures/podminky/rakousko]( Info k Rakousku)
+[ Info k Rakousku)[https://portal.mpsv.cz/eures/podminky/rakousko)
 
-[http://www.rakousko.net/]( Rakousko wiki 1)
+[ Rakousko wiki 1)[http://www.rakousko.net/)
 
 #### Nový Zéland
 
-[http://www.pracezeland.cz/]( Info)
-
-
+[ Info)[http://www.pracezeland.cz/)
